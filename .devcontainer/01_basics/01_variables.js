@@ -5,4 +5,6 @@ accountCountry = "kolkata"
 
 console.log(accountId)
 
-console.table([accountId,accountEmail,accountPassword,accountCountry])
+// console.table([accountId,accountEmail,accountPassword,accountCountry]) //
+
+console.log(accountPassword);
